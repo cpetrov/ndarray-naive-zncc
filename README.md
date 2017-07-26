@@ -3,7 +3,7 @@ Calculates the ZNCC between a template and a reference ndarray at a given refere
 
 Implementation based on [CSC320 Lec - Matching Image Patches](http://www.cs.toronto.edu/~guerzhoy/320/lec/patches_filters.pdf).
 
-![Preview](./preview.png)
+![Preview](https://raw.githubusercontent.com/cpetrov/ndarray-naive-zncc/master/preview.png)
 
 ## Installation
 
