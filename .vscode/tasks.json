@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "tasks": [
+    {
+      "taskName": "Run tests",
+      "command": "mocha",
+      "isTestCommand": true
+    }
+  ]
+}
